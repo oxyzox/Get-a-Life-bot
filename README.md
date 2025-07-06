@@ -5,7 +5,7 @@ A comprehensive Discord life simulation bot that allows server members to build 
 ## Important 
 
 Wanna know what’s really going on?  
-Check out [Vist the Site](https://getalifebot.vercel.app) — the lore’s there, and it’s fun prob..
+Check out [The Site](https://getalifebot.vercel.app) — the lore’s there, and it’s fun prob..
 
 ## Features
 
