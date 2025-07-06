@@ -129,8 +129,12 @@ The bot uses SQLite for data persistence with the following main tables:
 
 ## License
 
-under oxyzox
+under oxyzox.
 
 ## Support
 
 For issues and feature requests, please use the GitHub issue tracker.
+
+## Important 
+
+It would be bette to vist ---- to know the lore. its fun prob.
