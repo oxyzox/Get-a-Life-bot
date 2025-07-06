@@ -2,6 +2,11 @@
 
 A comprehensive Discord life simulation bot that allows server members to build virtual lives, work jobs, manage relationships, and compete in a rich economy system.
 
+## Important 
+
+Wanna know what’s really going on?  
+Check out [Vist the Site](https://getalifebot.vercel.app) — the lore’s there, and it’s fun prob..
+
 ## Features
 
 ### Core Life Simulation
@@ -135,6 +140,3 @@ under oxyzox.
 
 For issues and feature requests, please use the GitHub issue tracker.
 
-## Important 
-
-It would be bette to vist ---- to know the lore. its fun prob.
