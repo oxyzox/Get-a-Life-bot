@@ -34,7 +34,6 @@ Check out [The Site](https://getalifebot.vercel.app) — the lore’s there, and
 - Casino games including slots, dice, blackjack, and more
 
 ### Virtual Relationships
-- AI girlfriend/boyfriend system with personalities
 - Real player dating with proposal and marriage mechanics
 - Relationship progression through dates, gifts, and communication
 
